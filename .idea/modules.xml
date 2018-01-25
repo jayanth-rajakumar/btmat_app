@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/btmat App.iml" filepath="$PROJECT_DIR$/btmat App.iml" />
+      <module fileurl="file://D:\gitworkspace\btmat_app\app\app.iml" filepath="D:\gitworkspace\btmat_app\app\app.iml" />
+      <module fileurl="file://D:\gitworkspace\btmat_app\btmat App.iml" filepath="D:\gitworkspace\btmat_app\btmat App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/btmat_app.iml" filepath="$PROJECT_DIR$/btmat_app.iml" />
     </modules>
   </component>
 </project>
